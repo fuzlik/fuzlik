@@ -1,42 +1,86 @@
 <div align="center">
-  <img src="./assets/header.png" width="100%" alt="banner" />
+  <img src="./assets/header.png" width="100%" alt="Welcome to Fuzlik's Github" />
   <br/><br/>
-  <a href="https://github.com/fuzlik"><img src="./assets/link-gh.svg" height="36" alt="GitHub" /></a>
+  <a href="https://github.com/fuzlik">
+    <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   &nbsp;
-  <a href="https://fuzlik.github.io/alabuga-it-landing/"><img src="./assets/link-web.svg" height="36" alt="Landing" /></a>
+  <a href="https://fuzlik.github.io/alabuga-it-landing/">
+    <img src="https://img.shields.io/badge/LANDING-E11D2E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Landing" />
+  </a>
   &nbsp;
-  <a href="https://github.com/fuzlik/openclaw"><img src="./assets/link-claw.svg" height="36" alt="OpenClaw" /></a>
+  <a href="https://github.com/fuzlik/openclaw">
+    <img src="https://img.shields.io/badge/OPENCLAW-1E4D8C?style=for-the-badge&logo=telegram&logoColor=white" alt="OpenClaw" />
+  </a>
 </div>
 
-<br/>
+---
+
+### <img src="./assets/icon.png" width="28" height="28" alt="" /> Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-0B1220?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-0B1220?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-0B1220?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Cursor-0B1220?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+</p>
+
+---
+
+### <img src="./assets/icon.png" width="28" height="28" alt="" /> Statistics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuzlik&bg_color=0b1220&color=e11d2e&line=3b82f6&point=ffffff&area=true&hide_border=true&custom_title=Fuzlik's%20Contribution%20Graph" width="100%" alt="Contribution graph" />
+</div>
+
+---
+
+### <img src="./assets/icon.png" width="28" height="28" alt="" /> About Me
 
 <table>
 <tr>
-<td width="70%" valign="middle">
-
-### Hey — I'm Fuzlik
-
-Frontend & agent tools. React / TypeScript / Vite. Ship clean UI from Figma, wire APIs, keep home agents running.
-
-Currently into **[Alabuga IT landing](https://fuzlik.github.io/alabuga-it-landing/)** and a personal **[OpenClaw](https://github.com/fuzlik/openclaw)** setup.
-
-```ts
-const stack = ["React", "TypeScript", "Vite", "Node", "Figma"];
-```
-
+<td width="28%" align="center" valign="middle">
+  <img src="./assets/about.png" width="200" alt="Fuzlik" />
 </td>
-<td width="30%" align="center" valign="middle">
-  <img src="./assets/side.png" width="200" alt="" />
+<td width="72%" valign="middle">
+
+Hi! I'm **Fuzlik** — I build interfaces, agents, and tools that ship.
+
+I work with **TypeScript**, **React**, **Vite**, and **Node.js**. I like pixel-perfect layouts from **Figma**, clean APIs, and home agent setups with **OpenClaw**.
+
+Right now I'm focused on the **[Alabuga IT landing](https://fuzlik.github.io/alabuga-it-landing/)** and my personal OpenClaw runbook.
+
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3B82F6" />
-  <img src="https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=E11D2E" />
-  <img src="https://img.shields.io/badge/-Vite-161B22?style=flat-square&logo=vite&logoColor=E11D2E" />
-  <img src="https://img.shields.io/badge/-Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=3B82F6" />
-  <img src="https://img.shields.io/badge/-Figma-161B22?style=flat-square&logo=figma&logoColor=E11D2E" />
-</p>
+### <img src="./assets/icon.png" width="28" height="28" alt="" /> Projects & Goals
+
+<table>
+<tr>
+<td width="72%" valign="middle">
+
+Building fast frontend products and personal automation.
+
+- **[alabuga-it-landing](https://github.com/fuzlik/alabuga-it-landing)** — Vite + React + TS landing with Express & Bitrix24  
+- **[openclaw](https://github.com/fuzlik/openclaw)** — home gateway config, Telegram, OpenRouter  
+
+> *"With great code comes great responsibility."*
+
+</td>
+<td width="28%" align="center" valign="middle">
+  <img src="./assets/mascot.png" width="140" alt="" />
+</td>
+</tr>
+</table>
