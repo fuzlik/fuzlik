@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="banner" />
+  <img src="./assets/header.png" width="100%" alt="banner" />
   <br/><br/>
-  <a href="https://github.com/fuzlik"><img src="./assets/btn-github.svg" height="36" alt="GitHub" /></a>
+  <a href="https://github.com/fuzlik"><img src="./assets/link-gh.svg" height="36" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://fuzlik.github.io/alabuga-it-landing/"><img src="./assets/btn-landing.svg" height="36" alt="Landing" /></a>
+  <a href="https://fuzlik.github.io/alabuga-it-landing/"><img src="./assets/link-web.svg" height="36" alt="Landing" /></a>
   &nbsp;
-  <a href="https://github.com/fuzlik/openclaw"><img src="./assets/btn-openclaw.svg" height="36" alt="OpenClaw" /></a>
+  <a href="https://github.com/fuzlik/openclaw"><img src="./assets/link-claw.svg" height="36" alt="OpenClaw" /></a>
 </div>
 
 <br/>
@@ -26,7 +26,7 @@ const stack = ["React", "TypeScript", "Vite", "Node", "Figma"];
 
 </td>
 <td width="30%" align="center" valign="middle">
-  <img src="./assets/hero-deco.png" width="200" alt="" />
+  <img src="./assets/side.png" width="200" alt="" />
 </td>
 </tr>
 </table>
