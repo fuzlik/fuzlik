@@ -39,7 +39,10 @@
 ### <img src="./assets/icon.png" width="28" height="28" alt="" /> Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuzlik&bg_color=0b1220&color=e11d2e&line=3b82f6&point=ffffff&area=true&hide_border=true&custom_title=Fuzlik's%20Contribution%20Graph" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fuzlik&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=E11D2E&icon_color=3B82F6&text_color=E6EDF3" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzlik&layout=compact&theme=dark&hide_border=true&bg_color=0B1220&title_color=E11D2E&text_color=E6EDF3" height="160" alt="langs" />
+  <br/>
+  <img src="https://ghchart.rshah.org/e11d2e/fuzlik" width="100%" alt="Contribution chart" />
 </div>
 
 ---
