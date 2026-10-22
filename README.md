@@ -2,15 +2,15 @@
   <img src="./assets/header.png" width="100%" alt="Welcome to Fuzlik's Github" />
   <br/><br/>
   <a href="https://github.com/fuzlik">
-    <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://fuzlik.github.io/alabuga-it-landing/">
-    <img src="https://img.shields.io/badge/LANDING-E11D2E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Landing" />
+    <img src="https://img.shields.io/badge/LANDING-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Landing" />
   </a>
   &nbsp;
   <a href="https://github.com/fuzlik/openclaw">
-    <img src="https://img.shields.io/badge/OPENCLAW-1E4D8C?style=for-the-badge&logo=telegram&logoColor=white" alt="OpenClaw" />
+    <img src="https://img.shields.io/badge/OPENCLAW-1E3A5F?style=for-the-badge&logo=telegram&logoColor=white" alt="OpenClaw" />
   </a>
 </div>
 
@@ -39,12 +39,12 @@
 ### <img src="./assets/icon.png" width="28" height="28" alt="" /> Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuzlik&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=E11D2E&icon_color=3B82F6&text_color=E6EDF3" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzlik&layout=compact&theme=dark&hide_border=true&bg_color=0B1220&title_color=E11D2E&text_color=E6EDF3" height="160" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fuzlik&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=60A5FA&icon_color=93C5FD&text_color=E6EDF3" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzlik&layout=compact&theme=dark&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=E6EDF3" height="160" alt="langs" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=fuzlik&theme=dark&background=0B1220&ring=E11D2E&fire=E11D2E&currStreakLabel=3B82F6&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=fuzlik&theme=dark&background=0B1220&ring=60A5FA&fire=3B82F6&currStreakLabel=93C5FD&hide_border=true" alt="streak" />
   <br/><br/>
-  <img src="https://ghchart.rshah.org/e11d2e/fuzlik" width="100%" alt="Contribution chart" />
+  <img src="https://ghchart.rshah.org/3B82F6/fuzlik" width="100%" alt="Contribution chart" />
 </div>
 
 ---
@@ -81,11 +81,11 @@ Building fast frontend products and personal automation.
 - **[alabuga-it-landing](https://github.com/fuzlik/alabuga-it-landing)** — Vite + React + TS landing with Express & Bitrix24  
 - **[openclaw](https://github.com/fuzlik/openclaw)** — home gateway config, Telegram, OpenRouter  
 
-> *"With great code comes great responsibility."*
+> *"Keep it simple. Ship it clean."*
 
 </td>
 <td width="28%" align="center" valign="middle">
-  <img src="./assets/mascot.png" width="140" alt="" />
+  <img src="./assets/deco.png" width="140" alt="" />
 </td>
 </tr>
 </table>
