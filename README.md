@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=E11D2E&center=true&vCenter=true&width=560&lines=With+great+code+comes+great+responsibility;Hey+there!+I'm+Fuzlik+%F0%9F%A7%B8;Frontend+%C2%B7+Agents+%C2%B7+Ship+fast" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=E11D2E&center=true&vCenter=true&width=720&height=45&lines=With+great+code+comes+great+responsibility;Hey+there!+I'm+Fuzlik+%F0%9F%A7%B8;Frontend+%C2%B7+Agents+%C2%B7+Ship+fast" alt="typing" />
 
 </div>
 
