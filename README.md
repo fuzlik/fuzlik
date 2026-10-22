@@ -42,6 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fuzlik&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=E11D2E&icon_color=3B82F6&text_color=E6EDF3" height="160" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzlik&layout=compact&theme=dark&hide_border=true&bg_color=0B1220&title_color=E11D2E&text_color=E6EDF3" height="160" alt="langs" />
   <br/>
+  <img src="https://streak-stats.demolab.com?user=fuzlik&theme=dark&background=0B1220&ring=E11D2E&fire=E11D2E&currStreakLabel=3B82F6&hide_border=true" alt="streak" />
+  <br/><br/>
   <img src="https://ghchart.rshah.org/e11d2e/fuzlik" width="100%" alt="Contribution chart" />
 </div>
 
